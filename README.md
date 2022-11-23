@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Piotr Michalski</h1>
 <h3 align="center">A passionate Cloud/DevOps Engineer from Cheltenham in UK</h3>
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmichalski365&label=Profile%20views&color=0e75b6&style=flat" alt="pmichalski365" /> </p>
 
